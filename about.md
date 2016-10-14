@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Will and I am a data scientist. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+If you want more information, here is my Linkedin:](http://linkedin.com/in/wlsanders)
